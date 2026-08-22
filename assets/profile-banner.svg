@@ -19,24 +19,53 @@
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#a6b9ef" stroke-opacity="0.075"/>
     </pattern>
-    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <clipPath id="bannerClip">
+      <rect width="1200" height="260" rx="28"/>
+    </clipPath>
   </defs>
 
-  <rect width="1200" height="260" rx="28" fill="url(#background)"/>
-  <rect width="1200" height="260" rx="28" fill="url(#grid)"/>
-  <rect width="1200" height="260" rx="28" fill="url(#glow)"/>
+  <style>
+    .gradient-drift {
+      animation: gradient-drift 20s ease-in-out infinite;
+    }
+
+    .logo-float {
+      animation: logo-float 6s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
+    @keyframes gradient-drift {
+      0%, 100% { transform: translateX(-70px); }
+      50% { transform: translateX(70px); }
+    }
+
+    @keyframes logo-float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-7px); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .gradient-drift,
+      .logo-float {
+        animation: none;
+      }
+    }
+  </style>
+
+  <g clip-path="url(#bannerClip)">
+    <rect width="1200" height="260" fill="#061747"/>
+    <rect class="gradient-drift" x="-160" width="1520" height="260" fill="url(#background)"/>
+    <rect width="1200" height="260" fill="url(#grid)"/>
+    <rect width="1200" height="260" fill="url(#glow)"/>
+  </g>
   <rect x="1" y="1" width="1198" height="258" rx="27" fill="none" stroke="#9fb8ff" stroke-opacity="0.2" stroke-width="2"/>
 
   <g transform="translate(68 64)">
-    <rect width="132" height="132" rx="32" fill="#071a4c" fill-opacity="0.82" stroke="url(#accent)" stroke-width="2"/>
-    <text x="66" y="84" fill="url(#accent)" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="49" font-weight="750" letter-spacing="-3" text-anchor="middle">MK</text>
-    <circle cx="108" cy="23" r="5" fill="#59d3cf" filter="url(#softGlow)"/>
+    <g class="logo-float">
+      <rect width="132" height="132" rx="32" fill="#071a4c" fill-opacity="0.82" stroke="url(#accent)" stroke-width="2"/>
+      <text x="66" y="84" fill="url(#accent)" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="49" font-weight="750" letter-spacing="-3" text-anchor="middle">MK</text>
+    </g>
   </g>
 
   <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">

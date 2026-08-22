@@ -18,7 +18,7 @@ I'm a **Computer Sciences & Data Science student at the University of Wisconsin�
 
 ## Current projects
 
-### [Chass!](https://github.com/MihirKaushal/Chass) · Full-stack game platform
+### [Chass!](https://playchass.vercel.app) · Full-stack game platform
 
 [Live game](https://playchass.vercel.app) · [Source code](https://github.com/MihirKaushal/Chass)
 
@@ -28,9 +28,9 @@ Built a browser chess platform for classic play and deeply configurable variants
 - **24 REST/WebSocket routes**, boards from **4×4 to 16×16**, **7 custom pieces**, **7 abilities**, and **9 victory modes**
 - **Stack:** Python, FastAPI, React, WebSockets, Firestore, SQLAlchemy, SQLite, Pytest
 
-### [Studi](https://github.com/Kgan3039/studi) · Team mobile app
+### [Studi](https://joinstudi.com) · Team mobile app
 
-[Product site](https://studi-website.vercel.app) · [Source code](https://github.com/Kgan3039/studi)
+[Product site](https://joinstudi.com) · [Source code](https://github.com/Kgan3039/studi)
 
 Contributing to a UW–Madison study-partner app for finding classmates, coordinating availability, and meeting at campus study spaces. My work includes session editing and attendee notifications, search improvements, authentication and account-deletion reliability, profile draft protection, and the root Expo setup.
 

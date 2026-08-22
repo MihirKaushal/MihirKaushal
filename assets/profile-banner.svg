@@ -26,11 +26,11 @@
 
   <style>
     .gradient-drift {
-      animation: gradient-drift 15s ease-in-out infinite;
+      animation: gradient-drift 10s ease-in-out infinite;
     }
 
     .logo-float {
-      animation: logo-float 6s ease-in-out infinite;
+      animation: logo-float 4s ease-in-out infinite;
       transform-box: fill-box;
       transform-origin: center;
     }

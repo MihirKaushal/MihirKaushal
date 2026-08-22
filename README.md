@@ -6,7 +6,7 @@
   >
 </p>
 
-# About
+## About
 
 I'm a **Computer Sciences & Data Science student at the University of Wisconsin–Madison**. I build full-stack applications across web, mobile, and data-focused team projects.
 
@@ -18,7 +18,8 @@ I'm a **Computer Sciences & Data Science student at the University of Wisconsin�
 
 ## Current projects
 
-### [Chass!](https://playchass.vercel.app) · Full-stack game platform
+<details open>
+<summary><strong>Chass! · Full-stack game platform</strong></summary>
 
 [Live game](https://playchass.vercel.app) · [Source code](https://github.com/MihirKaushal/Chass)
 
@@ -28,7 +29,10 @@ Built a browser chess platform for classic play and deeply configurable variants
 - **24 REST/WebSocket routes**, boards from **4×4 to 16×16**, **7 custom pieces**, **7 abilities**, and **9 victory modes**
 - **Stack:** Python, FastAPI, React, WebSockets, Firestore, SQLAlchemy, SQLite, Pytest
 
-### [Studi](https://joinstudi.com) · Team mobile app
+</details>
+
+<details open>
+<summary><strong>Studi · Team mobile app</strong></summary>
 
 [Product site](https://joinstudi.com) · [Source code](https://github.com/Kgan3039/studi)
 
@@ -38,7 +42,10 @@ Contributing to a UW–Madison study-partner app for finding classmates, coordin
 - **23 screens** organized through **3 Expo Router layouts** and **5 main tabs**, plus **12 Firebase Cloud Function exports**
 - **Stack:** TypeScript, React Native, Expo Router, Firebase, Firestore
 
-### [AI Market Sentiment Dashboard](https://github.com/Kgan3039/ai-market-sentiment-dashboard) · Backend engineer, 6-person team
+</details>
+
+<details open>
+<summary><strong>AI Market Sentiment Dashboard · Backend engineer, 6-person team</strong></summary>
 
 [Source code](https://github.com/Kgan3039/ai-market-sentiment-dashboard)
 
@@ -47,6 +54,8 @@ Built **3 fixture-backed Phase 0 FastAPI endpoints** across a **5-ticker** demo 
 - **22 targeted tests passing**: 14 backend + 8 frontend
 - Separates data ingestion, NLP, prediction, API, and dashboard responsibilities behind explicit contracts
 - **Stack:** Python, FastAPI, REST APIs, React, SQLite, Vitest
+
+</details>
 
 ## Skills
 

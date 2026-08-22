@@ -19,7 +19,7 @@ I'm a **Computer Sciences & Data Science student at the University of Wisconsin�
 ## Current projects
 
 <details open>
-<summary><strong>Chass! · Full-stack game platform</strong></summary>
+<summary><h3>Chass! · Full-stack game platform</h3></summary>
 
 [Live game](https://playchass.vercel.app) · [Source code](https://github.com/MihirKaushal/Chass)
 
@@ -32,7 +32,7 @@ Built a browser chess platform for classic play and deeply configurable variants
 </details>
 
 <details open>
-<summary><strong>Studi · Team mobile app</strong></summary>
+<summary><h3>Studi · Team mobile app</h3></summary>
 
 [Product site](https://joinstudi.com) · [Source code](https://github.com/Kgan3039/studi)
 
@@ -45,7 +45,7 @@ Contributing to a UW–Madison study-partner app for finding classmates, coordin
 </details>
 
 <details open>
-<summary><strong>AI Market Sentiment Dashboard · Backend engineer, 6-person team</strong></summary>
+<summary><h3>AI Market Sentiment Dashboard · Backend engineer, 6-person team</h3></summary>
 
 [Source code](https://github.com/Kgan3039/ai-market-sentiment-dashboard)
 

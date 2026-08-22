@@ -6,7 +6,7 @@
   >
 </p>
 
-# Hi, I'm Mihir.
+# About
 
 I'm a **Computer Sciences & Data Science student at the University of Wisconsin–Madison**. I build full-stack applications across web, mobile, and data-focused team projects.
 

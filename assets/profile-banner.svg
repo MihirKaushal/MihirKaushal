@@ -26,7 +26,7 @@
 
   <style>
     .gradient-drift {
-      animation: gradient-drift 20s ease-in-out infinite;
+      animation: gradient-drift 15s ease-in-out infinite;
     }
 
     .logo-float {
@@ -76,7 +76,7 @@
       <rect width="296" height="36" rx="18" fill="#319a9a" fill-opacity="0.16" stroke="#59d3cf" stroke-opacity="0.48"/>
       <text x="148" y="23" fill="#d8fffd" text-anchor="middle">UNIVERSITY OF WISCONSIN–MADISON</text>
       <rect x="308" width="324" height="36" rx="18" fill="#319a9a" fill-opacity="0.16" stroke="#59d3cf" stroke-opacity="0.48"/>
-      <text x="470" y="23" fill="#d8fffd" text-anchor="middle">COMPUTER SCIENCES + DATA SCIENCE</text>
+      <text x="470" y="23" fill="#d8fffd" text-anchor="middle">COMPUTER SCIENCES & DATA SCIENCE</text>
     </g>
   </g>
 </svg>

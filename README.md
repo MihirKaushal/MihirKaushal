@@ -36,7 +36,7 @@ Contributing to a UW–Madison study-partner app for finding classmates, coordin
 
 - **351 passing tests across 17 suites**, including blocked-session safety, push-token ownership, and notification validation
 - **23 screens** organized through **3 Expo Router layouts** and **5 main tabs**, plus **12 Firebase Cloud Function exports**
-- **Stack:** TypeScript, React Native, Expo Router, Firebase, Firestore, Mocha
+- **Stack:** TypeScript, React Native, Expo Router, Firebase, Firestore
 
 ### [AI Market Sentiment Dashboard](https://github.com/Kgan3039/ai-market-sentiment-dashboard) · Backend engineer, 6-person team
 

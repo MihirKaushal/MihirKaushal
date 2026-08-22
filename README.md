@@ -8,7 +8,7 @@
 
 # Hi, I'm Mihir.
 
-I'm a **Computer Sciences + Data Science student at the University of Wisconsin–Madison**. I build full-stack applications across web, mobile, and data-focused team projects.
+I'm a **Computer Sciences & Data Science student at the University of Wisconsin–Madison**. I build full-stack applications across web, mobile, and data-focused team projects.
 
 <p align="center">
   <a href="mailto:mihir.kaush@gmail.com"><img alt="Email Mihir" src="https://img.shields.io/badge/Email-Say%20hello-319A9A?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -40,6 +40,8 @@ Contributing to a UW–Madison study-partner app for finding classmates, coordin
 
 ### [AI Market Sentiment Dashboard](https://github.com/Kgan3039/ai-market-sentiment-dashboard) · Backend engineer, 6-person team
 
+[Source code](https://github.com/Kgan3039/ai-market-sentiment-dashboard)
+
 Built **3 fixture-backed Phase 0 FastAPI endpoints** across a **5-ticker** demo dataset, connected the React dashboard to the API, and hardened the integration around validation, errors, freshness metadata, and production routing.
 
 - **22 targeted tests passing**: 14 backend + 8 frontend
@@ -50,7 +52,7 @@ Built **3 fixture-backed Phase 0 FastAPI endpoints** across a **5-ticker** demo 
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, TypeScript, JavaScript, SQL, HTML/CSS |
-| Frontend and mobile | React, React Native, Expo Router, Vite |
-| Backend and data | FastAPI, REST APIs, WebSockets, Firebase, Firestore, SQLite, SQLAlchemy |
-| Quality and delivery | Pytest, Mocha, Vitest, Ruff, ESLint, Git/GitHub, Vercel, Render |
+| Languages | Python, Java, JavaScript/TypeScript, R, SQL, HTML/CSS |
+| Frontend and Mobile | React, React Native, Expo Router, Vite |
+| Backend and Data | FastAPI, REST APIs, WebSockets, Firebase/Firestore, SQLite, SQLAlchemy |
+| Quality and Delivery | Pytest, Mocha, Vitest, Ruff, ESLint, Git/GitHub, Vercel, Render |

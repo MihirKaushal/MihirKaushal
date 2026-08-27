@@ -8,7 +8,7 @@
 
 ## About
 
-I'm a **Computer Sciences & Data Science student at the University of Wisconsin–Madison**. I build full-stack applications across web, mobile, and data-focused team projects.
+I'm a **Computer Science & Data Science student at the University of Wisconsin–Madison**. I build full-stack applications across web, mobile, and data-focused team projects.
 
 <p align="center">
   <a href="mailto:mihir.kaush@gmail.com"><img alt="Email Mihir" src="https://img.shields.io/badge/Email-Say%20hello-319A9A?style=for-the-badge&logo=gmail&logoColor=white"></a>

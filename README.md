@@ -34,7 +34,7 @@ Built a browser chess platform for classic play and deeply configurable variants
 <details open>
 <summary><h3>Studi · Team mobile app</h3></summary>
 
-[Product site](https://joinstudi.com) · [Source code](https://github.com/Kgan3039/studi)
+ [App Store](https://apps.apple.com/us/app/studi-study-together/id6804290285) · [Product site](https://joinstudi.com) · [Source code](https://github.com/Kgan3039/studi)
 
 Contributing to a UW–Madison study-partner app for finding classmates, coordinating availability, and meeting at campus study spaces. My work includes session editing and attendee notifications, search improvements, authentication and account-deletion reliability, profile draft protection, and the root Expo setup.
 

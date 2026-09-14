@@ -23,7 +23,7 @@ I'm a **Computer Science & Data Science student at the University of Wisconsin�
 
 [Live game](https://playchass.vercel.app) · [Source code](https://github.com/MihirKaushal/Chass)
 
-Built a browser chess platform for classic play and deeply configurable variants. The FastAPI backend stays authoritative over real-time games, with versioned state, reconnect recovery, private setup flows, and interchangeable Firestore/SQLite persistence.
+Engineered a browser chess platform for classic play and deeply configurable variants. The FastAPI backend stays authoritative over real-time games, with versioned state, reconnect recovery, private setup flows, and interchangeable Firestore/SQLite persistence.
 
 - Built a **3-engine AI pipeline** using **Stockfish 18**, **Fairy-Stockfish**, and a custom alpha-beta **Chass Engine** to power live Match Analysis and **12 bot profiles spanning an estimated 500–2500 Elo**; enforced engine-rule parity and validated the system with a **408-test automated suite**
 - **24 REST/WebSocket routes**, boards from **4×4 to 16×16**, **7 custom pieces**, **7 abilities**, and **9 victory modes**

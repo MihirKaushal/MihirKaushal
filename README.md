@@ -38,7 +38,7 @@ Engineered a browser chess platform for classic play and deeply configurable var
 
 Contributing to a UW–Madison study-partner app for finding classmates, coordinating availability, and meeting at campus study spaces. My work includes session editing and attendee notifications, search improvements, authentication and account-deletion reliability, profile draft protection, and the root Expo setup.
 
-- Launched a UW–Madison study-partner app on the **Apple App Store**, generating **40+ downloads** and **260+ product-page views** in the first week while earning a **5.0/5.0 average across 12+ ratings**
+- Launched a UW–Madison study-partner app on the **Apple App Store**, generating **50+ downloads** and **350+ product-page views** in the first week while earning a **5.0/5.0 average across 13+ ratings**
 - Developed **26 Expo Router screens and layouts** across **5 tabs**, integrating **Firebase Auth/Firestore**, study sessions, chat, push notifications, moderation, and campus locations
 - **Stack:** TypeScript, React Native, Expo Router, Firebase, Firestore
 

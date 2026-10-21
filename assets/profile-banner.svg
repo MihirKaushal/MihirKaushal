@@ -72,16 +72,16 @@
 
   <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
     <g class="name-bop">
-      <text x="72" y="102" fill="#f5f7ff" font-size="52" font-weight="700" letter-spacing="-1.5">Mihir Kaushal</text>
+      <text x="72" y="116" fill="#f5f7ff" font-size="58" font-weight="700" letter-spacing="-1.6">Mihir Kaushal</text>
     </g>
-    <text x="74" y="143" fill="#b9c8ef" font-size="21" font-weight="500" letter-spacing="2.3">SOFTWARE DEVELOPMENT  ·  FULL-STACK  ·  DATA SCIENCE</text>
+    <text x="74" y="174" fill="#b9c8ef" font-size="21" font-weight="500" letter-spacing="0.2">SOFTWARE DEVELOPMENT  ·  FULL-STACK  ·  DATA SCIENCE</text>
 
-    <g transform="translate(74 169)" font-size="13" font-weight="600" letter-spacing="0.5">
-      <rect width="324" height="36" rx="18" fill="#319a9a" fill-opacity="0.16" stroke="#59d3cf" stroke-opacity="0.48"/>
-      <use href="#uwCrest" x="18" y="5" width="17" height="27"/>
-      <text x="178" y="23" fill="#d8fffd" text-anchor="middle">UNIVERSITY OF WISCONSIN–MADISON</text>
-      <rect x="336" width="324" height="36" rx="18" fill="#319a9a" fill-opacity="0.16" stroke="#59d3cf" stroke-opacity="0.48"/>
-      <text x="498" y="23" fill="#d8fffd" text-anchor="middle">COMPUTER SCIENCE &amp; DATA SCIENCE</text>
+    <g transform="translate(744 85)" font-size="15.5" font-weight="600" letter-spacing="0.2">
+      <rect width="408" height="48" rx="24" fill="#319a9a" fill-opacity="0.16" stroke="#59d3cf" stroke-opacity="0.48"/>
+      <use href="#uwCrest" x="21" y="7.5" width="21" height="33"/>
+      <text x="222" y="31" fill="#d8fffd" text-anchor="middle">UNIVERSITY OF WISCONSIN–MADISON</text>
+      <rect y="58" width="408" height="48" rx="24" fill="#319a9a" fill-opacity="0.16" stroke="#59d3cf" stroke-opacity="0.48"/>
+      <text x="204" y="89" fill="#d8fffd" text-anchor="middle">COMPUTER SCIENCE &amp; DATA SCIENCE</text>
     </g>
   </g>
 </svg>

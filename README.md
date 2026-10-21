@@ -45,7 +45,7 @@ Contributing to a UW–Madison study-partner app for finding classmates, coordin
 </details>
 
 <details open>
-<summary><h3>AI Market Sentiment Dashboard · Backend engineer, 6-person team</h3></summary>
+<summary><h3>AI Market Sentiment Dashboard · Backend engineer, 5-person team</h3></summary>
 
 [Source code](https://github.com/Kgan3039/ai-market-sentiment-dashboard)
 

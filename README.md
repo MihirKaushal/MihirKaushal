@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="./assets/profile-banner.svg"
-    alt="Mihir Kaushal — software development, full-stack engineering, and data science"
+    alt="Mihir Kaushal — UW–Madison Computer Science and Data Science student focused on software development and full-stack engineering"
     width="100%"
   >
 </p>

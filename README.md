@@ -11,7 +11,7 @@
 I'm a **Computer Science & Data Science student at the University of Wisconsin–Madison**. I build full-stack applications across web, mobile, and data-focused team projects.
 
 <p align="center">
-  <a href="mailto:mihir.kaush@gmail.com"><img alt="Email Mihir" src="https://img.shields.io/badge/Email-Say%20hello-319A9A?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mihir.kaushal.13@gmail.com"><img alt="Email Mihir" src="https://img.shields.io/badge/Email-Say%20hello-319A9A?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mihir-kaushal"><img alt="Connect with Mihir on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://playchass.vercel.app"><img alt="Play Chass" src="https://img.shields.io/badge/Live-Play%20Chass!-061747?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>

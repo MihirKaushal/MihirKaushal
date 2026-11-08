@@ -63,7 +63,7 @@ Built **3 fixture-backed Phase 0 FastAPI endpoints** across a **5-ticker** demo 
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, Java, JavaScript/TypeScript, R, SQL, HTML/CSS |
+| Languages | Python, Java, C, JavaScript/TypeScript, R, SQL, HTML/CSS |
 | Frontend and Mobile | React, React Native, Expo Router, Vite |
 | Backend and Data | FastAPI, REST APIs, WebSockets, Firebase/Firestore, SQLite, SQLAlchemy |
 | Quality and Delivery | Pytest, Mocha, Vitest, Ruff, ESLint, Git/GitHub, Vercel, Render |

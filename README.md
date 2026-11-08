@@ -23,11 +23,13 @@ I'm a **Computer Science & Data Science student at the University of Wisconsin�
 
 [Live game](https://playchass.vercel.app) · [Source code](https://github.com/MihirKaushal/Chass)
 
-Engineered a browser chess platform for classic play and deeply configurable variants. The FastAPI backend stays authoritative over real-time games, with versioned state, reconnect recovery, private setup flows, and interchangeable Firestore/SQLite persistence.
+Built a full-stack chess platform combining customizable gameplay, real-time multiplayer, and computer-vision board scanning.
 
-- Built a **3-engine AI pipeline** using **Stockfish 18**, **Fairy-Stockfish**, and a custom alpha-beta **Chass Engine** to power live Match Analysis and **12 bot profiles spanning an estimated 500–2500 Elo**; enforced engine-rule parity and validated the system with a **408-test automated suite**
-- **24 REST/WebSocket routes**, boards from **4×4 to 16×16**, **7 custom pieces**, **7 abilities**, and **9 victory modes**
-- **Stack:** Python, FastAPI, React, WebSockets, Firestore, SQLAlchemy, SQLite, Pytest
+The scanner uses an SSDLite detector and fine-tuned ResNet18 classifier, deployed through ONNX Runtime on the server or in-browser. Evaluated on **338 images containing 6,283 annotated pieces**, it correctly localized and classified **89.6% of real pieces; type-and-color accuracy among located pieces reached 97.95%**. Includes dataset curation, capture-grouped splits, class-specific error analysis, versioned benchmarks, and user correction before game import.
+
+- Integrated **Stockfish 18, Fairy-Stockfish, and a custom alpha-beta engine** for live analysis and **12 bot profiles**. Supports **4×4–16×16 boards**, custom pieces and abilities, and WebSocket multiplayer backed by authoritative validation and Firestore/SQLite persistence.
+
+- **Stack:** Python, PyTorch, ONNX Runtime, FastAPI, React, WebSockets, Firestore, SQLAlchemy, SQLite, Pytest, Playwright.
 
 </details>
 

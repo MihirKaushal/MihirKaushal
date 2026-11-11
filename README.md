@@ -27,7 +27,7 @@ Built a full-stack chess platform combining customizable gameplay, real-time mul
 
 The scanner uses an SSDLite detector and fine-tuned ResNet18 classifier, deployed through ONNX Runtime on the server or in-browser. Evaluated on **338 images containing 6,283 annotated pieces**, it correctly localized and classified **89.6% of real pieces; type-and-color accuracy among located pieces reached 97.95%**. Includes dataset curation, capture-grouped splits, class-specific error analysis, versioned benchmarks, and user correction before game import.
 
-- Integrated **Stockfish 18, Fairy-Stockfish, and a custom alpha-beta engine** for live analysis and **12 bot profiles**. Supports **4×4–16×16 boards**, custom pieces and abilities, and WebSocket multiplayer backed by authoritative validation and Firestore/SQLite persistence.
+- Integrated **Stockfish 18, Fairy-Stockfish, and a custom alpha-beta engine** for live analysis and **12 bot profiles**. Supports **4×4–16×16 boards, 7 custom pieces and 7 special abilities**, and WebSocket multiplayer backed by authoritative validation and Firestore/SQLite persistence.
 
 - **Stack:** Python, PyTorch, ONNX Runtime, FastAPI, React, WebSockets, Firestore, SQLAlchemy, SQLite, Pytest, Playwright.
 

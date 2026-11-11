@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="./assets/profile-banner.svg"
-    alt="Mihir Kaushal — UW–Madison Computer Science and Data Science student focused on software development and full-stack engineering"
+    alt="Mihir Kaushal — UW–Madison Computer Science and Data Science student focused on software development, AI, and full-stack engineering"
     width="100%"
   >
 </p>
@@ -19,7 +19,7 @@ I'm a **Computer Science & Data Science student at the University of Wisconsin�
 ## Current projects
 
 <details open>
-<summary><h3>Chass! · Full-stack game platform</h3></summary>
+<summary><h3>Chass! · Full-Stack AI Chess Platform</h3></summary>
 
 [Live game](https://playchass.vercel.app) · [Source code](https://github.com/MihirKaushal/Chass)
 

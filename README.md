@@ -34,15 +34,15 @@ The scanner uses an SSDLite detector and fine-tuned ResNet18 classifier, deploye
 </details>
 
 <details open>
-<summary><h3>Studi · Team mobile app</h3></summary>
+<summary><h3>Surg+F · Award-winning surgical video study tool</h3></summary>
 
- [App Store](https://apps.apple.com/us/app/studi-study-together/id6804290285) · [Product site](https://joinstudi.com) · [Source code](https://github.com/Kgan3039/studi)
+[Devpost](https://devpost.com/software/surg-f) · [Source code](https://github.com/shlokrj/surg-f)
 
-Contributing to a UW–Madison study-partner app for finding classmates, coordinating availability, and meeting at campus study spaces. My work includes session editing and attendee notifications, search improvements, authentication and account-deletion reliability, profile draft protection, and the root Expo setup.
+Built with a **four-person team** at MadHacks 2026, where Surg+F won the **Databricks Prize Track**. The app lets medical students search surgical video in plain language, jump to relevant moments, review annotated steps, and practice on an interactive 3D model.
 
-- Launched a UW–Madison study-partner app on the **Apple App Store**, generating **50+ downloads** and **350+ product-page views** in the first week while earning a **5.0/5.0 average across 13+ ratings**
-- Developed **26 Expo Router screens and layouts** across **5 tabs**, integrating **Firebase Auth/Firestore**, study sessions, chat, push notifications, moderation, and campus locations
-- **Stack:** TypeScript, React Native, Expo Router, Firebase, Firestore
+- Developed the **computer-vision pipeline and video overlays** for instrument and anatomy detection, including reproducible data preparation, model evaluation, and video-bound prediction exports
+- Integrated **timestamped boxes** into the player and verified their placement during seeking, resizing, and fullscreen playback
+- **Stack:** Python, PyTorch, Torchvision, JavaScript, Vite, FastAPI, Databricks, Three.js
 
 </details>
 
@@ -56,6 +56,19 @@ Built **3 fixture-backed Phase 0 FastAPI endpoints** across a **5-ticker** demo 
 - **22 targeted tests passing**: 14 backend + 8 frontend
 - Separates data ingestion, NLP, prediction, API, and dashboard responsibilities behind explicit contracts
 - **Stack:** Python, FastAPI, REST APIs, React, SQLite, Vitest
+
+</details>
+
+<details open>
+<summary><h3>Studi · Team mobile app</h3></summary>
+
+ [App Store](https://apps.apple.com/us/app/studi-study-together/id6804290285) · [Product site](https://joinstudi.com) · [Source code](https://github.com/Kgan3039/studi)
+
+Contributing to a UW–Madison study-partner app for finding classmates, coordinating availability, and meeting at campus study spaces. My work includes session editing and attendee notifications, search improvements, authentication and account-deletion reliability, profile draft protection, and the root Expo setup.
+
+- Launched a UW–Madison study-partner app on the **Apple App Store**, generating **50+ downloads** and **350+ product-page views** in the first week while earning a **5.0/5.0 average across 13+ ratings**
+- Developed **26 Expo Router screens and layouts** across **5 tabs**, integrating **Firebase Auth/Firestore**, study sessions, chat, push notifications, moderation, and campus locations
+- **Stack:** TypeScript, React Native, Expo Router, Firebase, Firestore
 
 </details>
 

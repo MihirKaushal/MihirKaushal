@@ -40,7 +40,7 @@ The scanner uses an SSDLite detector and fine-tuned ResNet18 classifier, deploye
 
 Built with a **four-person team** at MadHacks 2026, where Surg+F won the **Databricks Prize Track**. The app lets medical students search surgical video in plain language, jump to relevant moments, review annotated steps, and practice on an interactive 3D model.
 
-- Developed the **computer-vision pipeline and video overlays** for instrument and anatomy detection, including reproducible data preparation, model evaluation, and video-bound prediction exports
+- Developed and iterated on a **two-class computer-vision surgical anatomy detector**, increasing validation box AP from **0.345 (v1)** to **0.352 (v2)** and **0.384 (v3)** through training fixes, native-resolution inference, and augmentation
 - Integrated **timestamped boxes** into the player and verified their placement during seeking, resizing, and fullscreen playback
 - **Stack:** Python, PyTorch, Torchvision, JavaScript, Vite, FastAPI, Databricks, Three.js
 
